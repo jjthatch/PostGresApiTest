@@ -1,0 +1,6 @@
+@PostGreTestAPI_HostAddress = http://localhost:5083
+
+GET {{PostGreTestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

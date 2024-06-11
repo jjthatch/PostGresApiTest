@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using PostGreTestAPI.Domain;
 
 namespace PostGreTestAPI.DataAccess
 {

@@ -1,4 +1,4 @@
-﻿namespace PostGreTestAPI.DataAccess
+﻿namespace PostGreTestAPI.Domain
 {
     public class Potato
     {

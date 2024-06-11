@@ -1,6 +1,7 @@
 
 using Microsoft.EntityFrameworkCore;
 using PostGreTestAPI.DataAccess;
+using PostGreTestAPI.Validators;
 
 namespace PostGreTestAPI
 {

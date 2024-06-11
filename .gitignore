@@ -1,7 +1,7 @@
 # .NET Core
 bin/
 obj/
-project.lcok.json
+project.lock.json
 
 # Visual Studio
 .vs/

@@ -1,0 +1,13 @@
+# .NET Core
+bin/
+obj/
+project.lcok.json
+
+# Visual Studio
+.vs/
+.vscode/
+.vscode/*
+*.csproj.user
+
+# JetBrains Rider
+.idea/
